@@ -12,6 +12,7 @@ import NewSection from "./NewSection"
 import Roadmap3 from "./Roadmap3"
 import Links from "./Links"
 import Join from "./Join"
+import FloatingImages from './FloatingImages'
 
 
 
@@ -31,5 +32,6 @@ export{
     About3,
     About4,
     Links,
-    Join
+    Join,
+    FloatingImages
 }

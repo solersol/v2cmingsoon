@@ -1,5 +1,5 @@
 
-import { Hero, About, Roadmap2,Roadmap3, About2,About3,About4,Links, NewSection, Join } from "./sections";
+import { Hero, About, Roadmap2,Roadmap3, About2,About3,About4,Links, NewSection, Join, FloatingImages } from "./sections";
 import VideoBackground from "./components/VideoBackground";
 import VideoBackground2 from "./components/VideoBackground2";
 
@@ -47,7 +47,7 @@ return(
   
 
 
-     <section className="w-full h-screen bg-cover bg-center " style={{ backgroundImage: `url(${main3})` }}><About2 /></section> 
+     <section className="w-full h-screen bg-cover bg-center " style={{ backgroundImage: `url(${main3})` }}><FloatingImages /></section> 
     {/*<VideoBackground >
       <Hero />
     </ VideoBackground >
@@ -67,7 +67,7 @@ return(
       
 
 
-    <section className=""><StickyFooter /></section> 
+    {/* <section className=""><StickyFooter /></section>  */}
   </main>
 );
 };

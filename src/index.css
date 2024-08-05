@@ -335,4 +335,17 @@
   .animate-slide-in-right {
     animation: slideInRight 2.5s ease-out forwards;
   }
+  @keyframes float {
+    0%, 100% {
+      transform: translatey(0px);
+    }
+    50% {
+      transform: translatey(-10px);
+    }
+  }
+
+  .float-animation {
+    animation: float 3s ease-in-out infinite;
+  }
+  
 }
