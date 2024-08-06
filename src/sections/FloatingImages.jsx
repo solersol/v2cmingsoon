@@ -4,7 +4,7 @@ import { img1, cardImage1 } from '../assets/images'; // Replace with your actual
 const FloatingImages = () => {
   return (
     <section className="w-full h-screen flex justify-center items-center">
-      <div className="flex space-x-8">
+      <div className="flex space-x-8 mt-32">
         <a href="https://x.com/ChopySol_" target="_blank" rel="noopener noreferrer">
           <img
             src={img1}
