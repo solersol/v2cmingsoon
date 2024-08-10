@@ -15,3 +15,4 @@ Currently, two official plugins are available:
 # f1pepe
 # schoolboys
 # lsoon
+# v2cmingsoon
