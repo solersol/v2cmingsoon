@@ -17,3 +17,4 @@ Currently, two official plugins are available:
 # lsoon
 # v2cmingsoon
 # v2cmingsoon
+# v2cmingsoon
