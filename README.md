@@ -16,3 +16,4 @@ Currently, two official plugins are available:
 # schoolboys
 # lsoon
 # v2cmingsoon
+# v2cmingsoon
